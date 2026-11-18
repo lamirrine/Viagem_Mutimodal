@@ -1,0 +1,24 @@
+{
+ "nome": "pequena_05",
+ "nivel": "pequena",
+ "paragens": [
+  0,
+  6,
+  7,
+  12,
+  16,
+  18,
+  21,
+  24,
+  25
+ ],
+ "origem": 12,
+ "destino": 24,
+ "t0": 560,
+ "limite": 646,
+ "orcamento": 37,
+ "alfa": 2.0,
+ "beta": 0.0,
+ "chegada_mais_cedo": 605,
+ "semente": 202607
+}

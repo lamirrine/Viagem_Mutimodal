@@ -1,0 +1,23 @@
+{
+ "nome": "pequena_08",
+ "nivel": "pequena",
+ "paragens": [
+  2,
+  5,
+  7,
+  13,
+  14,
+  15,
+  24,
+  25
+ ],
+ "origem": 13,
+ "destino": 2,
+ "t0": 405,
+ "limite": 485,
+ "orcamento": 51,
+ "alfa": 0.0,
+ "beta": 0.0,
+ "chegada_mais_cedo": 442,
+ "semente": 202607
+}

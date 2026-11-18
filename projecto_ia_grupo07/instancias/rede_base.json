@@ -1,0 +1,1425 @@
+{
+ "semente": 202607,
+ "parametros": {
+  "fator_desvio": 1.3,
+  "vel_a_pe_kmh": 5.0,
+  "max_a_pe_m": 1500,
+  "ponta": [
+   [
+    360,
+    510
+   ],
+   [
+    990,
+    1140
+   ]
+  ],
+  "mult_ponta": 1.8,
+  "rampa_min": 60
+ },
+ "modos": {
+  "chapa": {
+   "tarifa": 15,
+   "vel_kmh": 22.0
+  },
+  "autocarro": {
+   "tarifa": 10,
+   "vel_kmh": 20.0
+  },
+  "comboio": {
+   "tarifa": 20,
+   "vel_kmh": 40.0
+  },
+  "ferry": {
+   "tarifa": 25,
+   "vel_kmh": 12.0
+  }
+ },
+ "paragens": [
+  {
+   "id": 0,
+   "nome": "Baixa",
+   "zona": "Maputo",
+   "lat": -25.9718,
+   "lon": 32.5715
+  },
+  {
+   "id": 1,
+   "nome": "Museu",
+   "zona": "Maputo",
+   "lat": -25.9686,
+   "lon": 32.5892
+  },
+  {
+   "id": 2,
+   "nome": "Xipamanine",
+   "zona": "Maputo",
+   "lat": -25.944,
+   "lon": 32.564
+  },
+  {
+   "id": 3,
+   "nome": "Benfica",
+   "zona": "Maputo",
+   "lat": -25.9014,
+   "lon": 32.554
+  },
+  {
+   "id": 4,
+   "nome": "Zimpeto",
+   "zona": "Maputo",
+   "lat": -25.8475,
+   "lon": 32.5782
+  },
+  {
+   "id": 5,
+   "nome": "Matola Gare",
+   "zona": "Matola",
+   "lat": -25.8845,
+   "lon": 32.4618
+  },
+  {
+   "id": 6,
+   "nome": "Machava",
+   "zona": "Matola",
+   "lat": -25.924,
+   "lon": 32.479
+  },
+  {
+   "id": 7,
+   "nome": "Matola Jardim",
+   "zona": "Matola",
+   "lat": -25.95,
+   "lon": 32.468
+  },
+  {
+   "id": 8,
+   "nome": "Costa do Sol",
+   "zona": "Maputo",
+   "lat": -25.923,
+   "lon": 32.628
+  },
+  {
+   "id": 9,
+   "nome": "Terminal do Ferry (Maputo)",
+   "zona": "Maputo",
+   "lat": -25.9776,
+   "lon": 32.5719
+  },
+  {
+   "id": 10,
+   "nome": "Katembe (Terminal)",
+   "zona": "Katembe",
+   "lat": -25.9992,
+   "lon": 32.5663
+  },
+  {
+   "id": 11,
+   "nome": "Estacao CFM",
+   "zona": "Maputo",
+   "lat": -25.9709,
+   "lon": 32.5743
+  },
+  {
+   "id": 12,
+   "nome": "Alto Mae",
+   "zona": "Maputo",
+   "lat": -25.965,
+   "lon": 32.581
+  },
+  {
+   "id": 13,
+   "nome": "Polana",
+   "zona": "Maputo",
+   "lat": -25.957,
+   "lon": 32.596
+  },
+  {
+   "id": 14,
+   "nome": "Sommerschield",
+   "zona": "Maputo",
+   "lat": -25.945,
+   "lon": 32.592
+  },
+  {
+   "id": 15,
+   "nome": "Malhangalene",
+   "zona": "Maputo",
+   "lat": -25.95,
+   "lon": 32.575
+  },
+  {
+   "id": 16,
+   "nome": "Mercado Central",
+   "zona": "Maputo",
+   "lat": -25.964,
+   "lon": 32.576
+  },
+  {
+   "id": 17,
+   "nome": "Junta",
+   "zona": "Maputo",
+   "lat": -25.948,
+   "lon": 32.587
+  },
+  {
+   "id": 18,
+   "nome": "FENG-UEM",
+   "zona": "Maputo",
+   "lat": -25.9221,
+   "lon": 32.5512
+  },
+  {
+   "id": 19,
+   "nome": "Maxaquene",
+   "zona": "Maputo",
+   "lat": -25.938,
+   "lon": 32.587
+  },
+  {
+   "id": 20,
+   "nome": "Mavalane",
+   "zona": "Maputo",
+   "lat": -25.92,
+   "lon": 32.5726
+  },
+  {
+   "id": 21,
+   "nome": "Hulene",
+   "zona": "Maputo",
+   "lat": -25.933,
+   "lon": 32.57
+  },
+  {
+   "id": 22,
+   "nome": "Mahotas",
+   "zona": "Maputo",
+   "lat": -25.919,
+   "lon": 32.601
+  },
+  {
+   "id": 23,
+   "nome": "Magoanine",
+   "zona": "Maputo",
+   "lat": -25.892,
+   "lon": 32.589
+  },
+  {
+   "id": 24,
+   "nome": "Laulane",
+   "zona": "Maputo",
+   "lat": -25.923,
+   "lon": 32.547
+  },
+  {
+   "id": 25,
+   "nome": "Fomento",
+   "zona": "Matola",
+   "lat": -25.942,
+   "lon": 32.462
+  },
+  {
+   "id": 26,
+   "nome": "Liberdade",
+   "zona": "Matola",
+   "lat": -25.943,
+   "lon": 32.493
+  },
+  {
+   "id": 27,
+   "nome": "Matola Rio",
+   "zona": "Matola",
+   "lat": -25.977,
+   "lon": 32.444
+  },
+  {
+   "id": 28,
+   "nome": "Praca dos Combatentes",
+   "zona": "Maputo",
+   "lat": -25.956,
+   "lon": 32.56
+  },
+  {
+   "id": 29,
+   "nome": "Katembe Centro",
+   "zona": "Katembe",
+   "lat": -26.012,
+   "lon": 32.556
+  }
+ ],
+ "linhas": [
+  {
+   "nome": "Chapa C1 Baixa-FENG",
+   "modo": "chapa",
+   "paragens": [
+    0,
+    16,
+    15,
+    17,
+    1,
+    18
+   ],
+   "cum": [
+    0,
+    4,
+    10,
+    15,
+    24,
+    47
+   ],
+   "tarifa": 15,
+   "intervalo": 12,
+   "fase": 0,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C1 Baixa-FENG (volta)",
+   "modo": "chapa",
+   "paragens": [
+    18,
+    1,
+    17,
+    15,
+    16,
+    0
+   ],
+   "cum": [
+    0,
+    23,
+    32,
+    37,
+    43,
+    47
+   ],
+   "tarifa": 15,
+   "intervalo": 15,
+   "fase": 14,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C2 Baixa-Costa do Sol",
+   "modo": "chapa",
+   "paragens": [
+    0,
+    12,
+    13,
+    18,
+    8
+   ],
+   "cum": [
+    0,
+    5,
+    12,
+    34,
+    62
+   ],
+   "tarifa": 15,
+   "intervalo": 12,
+   "fase": 0,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C2 Baixa-Costa do Sol (volta)",
+   "modo": "chapa",
+   "paragens": [
+    8,
+    18,
+    13,
+    12,
+    0
+   ],
+   "cum": [
+    0,
+    28,
+    50,
+    57,
+    62
+   ],
+   "tarifa": 15,
+   "intervalo": 10,
+   "fase": 5,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C3 Xipamanine-Baixa",
+   "modo": "chapa",
+   "paragens": [
+    2,
+    15,
+    16,
+    0
+   ],
+   "cum": [
+    0,
+    5,
+    11,
+    15
+   ],
+   "tarifa": 15,
+   "intervalo": 15,
+   "fase": 5,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C3 Xipamanine-Baixa (volta)",
+   "modo": "chapa",
+   "paragens": [
+    0,
+    16,
+    15,
+    2
+   ],
+   "cum": [
+    0,
+    4,
+    10,
+    15
+   ],
+   "tarifa": 15,
+   "intervalo": 10,
+   "fase": 3,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C4 Xipamanine-Laulane",
+   "modo": "chapa",
+   "paragens": [
+    2,
+    21,
+    3,
+    24
+   ],
+   "cum": [
+    0,
+    5,
+    19,
+    28
+   ],
+   "tarifa": 15,
+   "intervalo": 8,
+   "fase": 7,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C4 Xipamanine-Laulane (volta)",
+   "modo": "chapa",
+   "paragens": [
+    24,
+    3,
+    21,
+    2
+   ],
+   "cum": [
+    0,
+    9,
+    23,
+    28
+   ],
+   "tarifa": 15,
+   "intervalo": 12,
+   "fase": 2,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C5 Zimpeto-Baixa",
+   "modo": "chapa",
+   "paragens": [
+    4,
+    23,
+    20,
+    21,
+    2,
+    15,
+    0
+   ],
+   "cum": [
+    0,
+    18,
+    31,
+    37,
+    42,
+    47,
+    56
+   ],
+   "tarifa": 20,
+   "intervalo": 15,
+   "fase": 9,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C5 Zimpeto-Baixa (volta)",
+   "modo": "chapa",
+   "paragens": [
+    0,
+    15,
+    2,
+    21,
+    20,
+    23,
+    4
+   ],
+   "cum": [
+    0,
+    9,
+    14,
+    19,
+    25,
+    38,
+    56
+   ],
+   "tarifa": 20,
+   "intervalo": 10,
+   "fase": 7,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C6 Laulane-Museu",
+   "modo": "chapa",
+   "paragens": [
+    24,
+    3,
+    19,
+    17,
+    1
+   ],
+   "cum": [
+    0,
+    9,
+    28,
+    32,
+    41
+   ],
+   "tarifa": 15,
+   "intervalo": 12,
+   "fase": 6,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C6 Laulane-Museu (volta)",
+   "modo": "chapa",
+   "paragens": [
+    1,
+    17,
+    19,
+    3,
+    24
+   ],
+   "cum": [
+    0,
+    9,
+    13,
+    32,
+    41
+   ],
+   "tarifa": 15,
+   "intervalo": 10,
+   "fase": 9,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C7 Matola Gare-Liberdade",
+   "modo": "chapa",
+   "paragens": [
+    5,
+    7,
+    6,
+    26
+   ],
+   "cum": [
+    0,
+    26,
+    37,
+    46
+   ],
+   "tarifa": 15,
+   "intervalo": 15,
+   "fase": 6,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C7 Matola Gare-Liberdade (volta)",
+   "modo": "chapa",
+   "paragens": [
+    26,
+    6,
+    7,
+    5
+   ],
+   "cum": [
+    0,
+    9,
+    20,
+    46
+   ],
+   "tarifa": 15,
+   "intervalo": 10,
+   "fase": 0,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C8 Matola Rio-Liberdade",
+   "modo": "chapa",
+   "paragens": [
+    27,
+    5,
+    25,
+    26
+   ],
+   "cum": [
+    0,
+    38,
+    61,
+    72
+   ],
+   "tarifa": 15,
+   "intervalo": 15,
+   "fase": 10,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C8 Matola Rio-Liberdade (volta)",
+   "modo": "chapa",
+   "paragens": [
+    26,
+    25,
+    5,
+    27
+   ],
+   "cum": [
+    0,
+    11,
+    34,
+    72
+   ],
+   "tarifa": 15,
+   "intervalo": 10,
+   "fase": 5,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C9 Machava-Xipamanine",
+   "modo": "chapa",
+   "paragens": [
+    6,
+    24,
+    3,
+    21,
+    2
+   ],
+   "cum": [
+    0,
+    25,
+    34,
+    48,
+    53
+   ],
+   "tarifa": 20,
+   "intervalo": 15,
+   "fase": 8,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C9 Machava-Xipamanine (volta)",
+   "modo": "chapa",
+   "paragens": [
+    2,
+    21,
+    3,
+    24,
+    6
+   ],
+   "cum": [
+    0,
+    5,
+    19,
+    28,
+    53
+   ],
+   "tarifa": 20,
+   "intervalo": 15,
+   "fase": 6,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C10 Katembe-Baixa (Ponte)",
+   "modo": "chapa",
+   "paragens": [
+    29,
+    10,
+    0
+   ],
+   "cum": [
+    0,
+    17,
+    46
+   ],
+   "tarifa": 30,
+   "intervalo": 6,
+   "fase": 5,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C10 Katembe-Baixa (Ponte) (volta)",
+   "modo": "chapa",
+   "paragens": [
+    0,
+    10,
+    29
+   ],
+   "cum": [
+    0,
+    29,
+    46
+   ],
+   "tarifa": 30,
+   "intervalo": 12,
+   "fase": 7,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C11 Mahotas-FENG",
+   "modo": "chapa",
+   "paragens": [
+    22,
+    8,
+    18
+   ],
+   "cum": [
+    0,
+    10,
+    38
+   ],
+   "tarifa": 15,
+   "intervalo": 8,
+   "fase": 6,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C11 Mahotas-FENG (volta)",
+   "modo": "chapa",
+   "paragens": [
+    18,
+    8,
+    22
+   ],
+   "cum": [
+    0,
+    28,
+    38
+   ],
+   "tarifa": 15,
+   "intervalo": 12,
+   "fase": 2,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C12 Praca Combatentes-Museu",
+   "modo": "chapa",
+   "paragens": [
+    28,
+    15,
+    17,
+    14,
+    1
+   ],
+   "cum": [
+    0,
+    6,
+    11,
+    14,
+    24
+   ],
+   "tarifa": 15,
+   "intervalo": 10,
+   "fase": 2,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Chapa C12 Praca Combatentes-Museu (volta)",
+   "modo": "chapa",
+   "paragens": [
+    1,
+    14,
+    17,
+    15,
+    28
+   ],
+   "cum": [
+    0,
+    10,
+    13,
+    18,
+    24
+   ],
+   "tarifa": 15,
+   "intervalo": 15,
+   "fase": 14,
+   "inicio": 300,
+   "fim": 1260
+  },
+  {
+   "nome": "Autocarro B1 Baixa-Zimpeto",
+   "modo": "autocarro",
+   "paragens": [
+    0,
+    2,
+    21,
+    20,
+    23,
+    4
+   ],
+   "cum": [
+    0,
+    13,
+    19,
+    25,
+    39,
+    59
+   ],
+   "tarifa": 10,
+   "viagens": [
+    330,
+    356,
+    384,
+    406,
+    432,
+    459,
+    486,
+    511,
+    535,
+    559,
+    586,
+    611,
+    637,
+    661,
+    687,
+    715,
+    737,
+    765,
+    788,
+    816,
+    838,
+    865,
+    893,
+    917,
+    939,
+    965,
+    992,
+    1016,
+    1042,
+    1069,
+    1092,
+    1120,
+    1147,
+    1169,
+    1195,
+    1221,
+    1243
+   ],
+   "intervalo_nominal": 25
+  },
+  {
+   "nome": "Autocarro B1 Baixa-Zimpeto (volta)",
+   "modo": "autocarro",
+   "paragens": [
+    4,
+    23,
+    20,
+    21,
+    2,
+    0
+   ],
+   "cum": [
+    0,
+    20,
+    34,
+    40,
+    46,
+    59
+   ],
+   "tarifa": 10,
+   "viagens": [
+    330,
+    363,
+    393,
+    423,
+    455,
+    485,
+    518,
+    548,
+    580,
+    612,
+    644,
+    672,
+    705,
+    735,
+    768,
+    798,
+    825,
+    854,
+    887,
+    915,
+    943,
+    975,
+    1008,
+    1035,
+    1068,
+    1098,
+    1126,
+    1155,
+    1184,
+    1214,
+    1245
+   ],
+   "intervalo_nominal": 30
+  },
+  {
+   "nome": "Autocarro B2 Baixa-Matola Gare",
+   "modo": "autocarro",
+   "paragens": [
+    0,
+    16,
+    24,
+    6,
+    26,
+    5
+   ],
+   "cum": [
+    0,
+    5,
+    30,
+    61,
+    73,
+    106
+   ],
+   "tarifa": 15,
+   "viagens": [
+    330,
+    361,
+    391,
+    424,
+    451,
+    484,
+    513,
+    543,
+    575,
+    608,
+    639,
+    668,
+    699,
+    726,
+    755,
+    783,
+    816,
+    843,
+    872,
+    905,
+    933,
+    961,
+    993,
+    1021,
+    1053,
+    1083,
+    1110,
+    1139,
+    1167,
+    1200,
+    1233
+   ],
+   "intervalo_nominal": 30
+  },
+  {
+   "nome": "Autocarro B2 Baixa-Matola Gare (volta)",
+   "modo": "autocarro",
+   "paragens": [
+    5,
+    26,
+    6,
+    24,
+    16,
+    0
+   ],
+   "cum": [
+    0,
+    33,
+    45,
+    76,
+    101,
+    106
+   ],
+   "tarifa": 15,
+   "viagens": [
+    330,
+    354,
+    380,
+    408,
+    435,
+    462,
+    484,
+    510,
+    537,
+    561,
+    587,
+    613,
+    638,
+    660,
+    686,
+    708,
+    733,
+    760,
+    783,
+    805,
+    828,
+    853,
+    876,
+    902,
+    926,
+    949,
+    972,
+    998,
+    1022,
+    1049,
+    1071,
+    1097,
+    1124,
+    1146,
+    1169,
+    1196,
+    1223,
+    1245
+   ],
+   "intervalo_nominal": 25
+  },
+  {
+   "nome": "Autocarro B3 Museu-Costa do Sol",
+   "modo": "autocarro",
+   "paragens": [
+    1,
+    13,
+    18,
+    22,
+    8
+   ],
+   "cum": [
+    0,
+    6,
+    30,
+    50,
+    61
+   ],
+   "tarifa": 10,
+   "viagens": [
+    330,
+    348,
+    367,
+    384,
+    402,
+    425,
+    445,
+    465,
+    488,
+    508,
+    530,
+    552,
+    573,
+    592,
+    611,
+    632,
+    651,
+    674,
+    697,
+    717,
+    740,
+    759,
+    779,
+    796,
+    814,
+    837,
+    855,
+    873,
+    890,
+    908,
+    926,
+    945,
+    962,
+    983,
+    1000,
+    1022,
+    1042,
+    1062,
+    1081,
+    1102,
+    1123,
+    1141,
+    1160,
+    1177,
+    1198,
+    1216,
+    1237,
+    1259
+   ],
+   "intervalo_nominal": 20
+  },
+  {
+   "nome": "Autocarro B3 Museu-Costa do Sol (volta)",
+   "modo": "autocarro",
+   "paragens": [
+    8,
+    22,
+    18,
+    13,
+    1
+   ],
+   "cum": [
+    0,
+    11,
+    31,
+    55,
+    61
+   ],
+   "tarifa": 10,
+   "viagens": [
+    330,
+    360,
+    391,
+    418,
+    446,
+    474,
+    501,
+    534,
+    561,
+    588,
+    618,
+    651,
+    683,
+    712,
+    744,
+    772,
+    805,
+    833,
+    865,
+    896,
+    926,
+    956,
+    985,
+    1018,
+    1047,
+    1075,
+    1106,
+    1136,
+    1167,
+    1198,
+    1229,
+    1259
+   ],
+   "intervalo_nominal": 30
+  },
+  {
+   "nome": "Autocarro B4 Baixa-Polana",
+   "modo": "autocarro",
+   "paragens": [
+    9,
+    0,
+    12,
+    13,
+    14
+   ],
+   "cum": [
+    0,
+    3,
+    8,
+    15,
+    21
+   ],
+   "tarifa": 10,
+   "viagens": [
+    330,
+    361,
+    393,
+    420,
+    453,
+    483,
+    510,
+    543,
+    572,
+    599,
+    629,
+    661,
+    693,
+    723,
+    750,
+    783,
+    811,
+    840,
+    870,
+    903,
+    932,
+    965,
+    995,
+    1026,
+    1054,
+    1084,
+    1112,
+    1143,
+    1170,
+    1201,
+    1232
+   ],
+   "intervalo_nominal": 30
+  },
+  {
+   "nome": "Autocarro B4 Baixa-Polana (volta)",
+   "modo": "autocarro",
+   "paragens": [
+    14,
+    13,
+    12,
+    0,
+    9
+   ],
+   "cum": [
+    0,
+    6,
+    13,
+    18,
+    21
+   ],
+   "tarifa": 10,
+   "viagens": [
+    330,
+    357,
+    384,
+    408,
+    432,
+    457,
+    481,
+    508,
+    531,
+    553,
+    576,
+    603,
+    625,
+    652,
+    676,
+    704,
+    732,
+    755,
+    778,
+    804,
+    831,
+    858,
+    882,
+    907,
+    931,
+    958,
+    980,
+    1006,
+    1034,
+    1061,
+    1088,
+    1116,
+    1142,
+    1169,
+    1193,
+    1215,
+    1237
+   ],
+   "intervalo_nominal": 25
+  },
+  {
+   "nome": "Comboio T1 CFM-Matola Rio",
+   "modo": "comboio",
+   "paragens": [
+    11,
+    6,
+    5,
+    27
+   ],
+   "cum": [
+    0,
+    26,
+    38,
+    63
+   ],
+   "tarifa": 20,
+   "viagens": [
+    311,
+    351,
+    389,
+    429,
+    468,
+    506,
+    548,
+    586,
+    628,
+    669,
+    708,
+    750,
+    792,
+    832,
+    872,
+    912,
+    952,
+    993,
+    1034,
+    1075,
+    1113,
+    1153,
+    1194
+   ],
+   "intervalo_nominal": 40
+  },
+  {
+   "nome": "Comboio T1 CFM-Matola Rio (volta)",
+   "modo": "comboio",
+   "paragens": [
+    27,
+    5,
+    6,
+    11
+   ],
+   "cum": [
+    0,
+    25,
+    37,
+    63
+   ],
+   "tarifa": 20,
+   "viagens": [
+    303,
+    344,
+    386,
+    427,
+    466,
+    508,
+    547,
+    586,
+    626,
+    664,
+    705,
+    746,
+    786,
+    825,
+    864,
+    904,
+    944,
+    982,
+    1024,
+    1066,
+    1107,
+    1148,
+    1186,
+    1226
+   ],
+   "intervalo_nominal": 40
+  },
+  {
+   "nome": "Ferry F1 Maputo-Katembe",
+   "modo": "ferry",
+   "paragens": [
+    9,
+    10
+   ],
+   "cum": [
+    0,
+    17
+   ],
+   "tarifa": 25,
+   "viagens": [
+    333,
+    373,
+    413,
+    453,
+    493,
+    533,
+    573,
+    613,
+    653,
+    693,
+    733,
+    773,
+    813,
+    853,
+    893,
+    933,
+    973,
+    1013,
+    1053,
+    1093,
+    1133,
+    1173,
+    1213
+   ],
+   "intervalo_nominal": 40
+  },
+  {
+   "nome": "Ferry F1 Maputo-Katembe (volta)",
+   "modo": "ferry",
+   "paragens": [
+    10,
+    9
+   ],
+   "cum": [
+    0,
+    17
+   ],
+   "tarifa": 25,
+   "viagens": [
+    336,
+    366,
+    396,
+    426,
+    456,
+    486,
+    516,
+    546,
+    576,
+    606,
+    636,
+    666,
+    696,
+    726,
+    756,
+    786,
+    816,
+    846,
+    876,
+    906,
+    936,
+    966,
+    996,
+    1026,
+    1056,
+    1086,
+    1116,
+    1146,
+    1176,
+    1206
+   ],
+   "intervalo_nominal": 30
+  }
+ ]
+}

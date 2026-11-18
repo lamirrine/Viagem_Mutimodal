@@ -1,0 +1,14 @@
+{
+ "nome": "grande_04",
+ "nivel": "grande",
+ "paragens": null,
+ "origem": 11,
+ "destino": 4,
+ "t0": 855,
+ "limite": 989,
+ "orcamento": 59,
+ "alfa": 2.0,
+ "beta": 0.0,
+ "chegada_mais_cedo": 923,
+ "semente": 202607
+}

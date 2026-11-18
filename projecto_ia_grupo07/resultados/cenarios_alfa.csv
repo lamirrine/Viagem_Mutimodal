@@ -1,0 +1,31 @@
+origem,destino,partida,alfa,beta,chegada,tempo_min,dinheiro_mt,transbordos,percurso,custo
+Matola Gare,FENG-UEM,07:00,0.0,0.0,08:25,85,35,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,85.0
+Matola Gare,FENG-UEM,07:00,0.5,0.0,08:25,85,35,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,102.5
+Matola Gare,FENG-UEM,07:00,2.0,0.0,08:30,90,30,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Autocarro B4 Baixa-Polana > a pé,150.0
+Matola Gare,FENG-UEM,07:00,0.0,5.0,08:25,85,35,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,90.0
+Matola Gare,FENG-UEM,07:00,0.5,5.0,08:25,85,35,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,107.5
+Matola Gare,FENG-UEM,07:00,2.0,5.0,08:30,90,30,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Autocarro B4 Baixa-Polana > a pé,155.0
+Zimpeto,Katembe Centro,08:00,0.0,0.0,10:02,122,40,1,Autocarro B1 Baixa-Zimpeto (volta) > Chapa C10 Katembe-Baixa (Ponte) (volta),122.0
+Zimpeto,Katembe Centro,08:00,0.5,0.0,10:02,122,40,1,Autocarro B1 Baixa-Zimpeto (volta) > Chapa C10 Katembe-Baixa (Ponte) (volta),142.0
+Zimpeto,Katembe Centro,08:00,2.0,0.0,10:02,122,40,1,Autocarro B1 Baixa-Zimpeto (volta) > Chapa C10 Katembe-Baixa (Ponte) (volta),202.0
+Zimpeto,Katembe Centro,08:00,0.0,5.0,10:02,122,40,1,Autocarro B1 Baixa-Zimpeto (volta) > Chapa C10 Katembe-Baixa (Ponte) (volta),127.0
+Zimpeto,Katembe Centro,08:00,0.5,5.0,10:02,122,40,1,Autocarro B1 Baixa-Zimpeto (volta) > Chapa C10 Katembe-Baixa (Ponte) (volta),147.0
+Zimpeto,Katembe Centro,08:00,2.0,5.0,10:02,122,40,1,Autocarro B1 Baixa-Zimpeto (volta) > Chapa C10 Katembe-Baixa (Ponte) (volta),207.0
+Katembe Centro,Museu,17:00,0.0,0.0,18:27,87,75,3,Chapa C10 Katembe-Baixa (Ponte) > Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > Autocarro B3 Museu-Costa do Sol (volta),87.0
+Katembe Centro,Museu,17:00,0.5,0.0,18:31,91,65,2,Chapa C10 Katembe-Baixa (Ponte) > Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > a pé,123.5
+Katembe Centro,Museu,17:00,2.0,0.0,18:31,91,65,2,Chapa C10 Katembe-Baixa (Ponte) > Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > a pé,221.0
+Katembe Centro,Museu,17:00,0.0,5.0,18:31,91,65,2,Chapa C10 Katembe-Baixa (Ponte) > Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > a pé,101.0
+Katembe Centro,Museu,17:00,0.5,5.0,18:31,91,65,2,Chapa C10 Katembe-Baixa (Ponte) > Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > a pé,133.5
+Katembe Centro,Museu,17:00,2.0,5.0,19:15,135,45,1,Chapa C10 Katembe-Baixa (Ponte) > a pé > Chapa C2 Baixa-Costa do Sol > a pé,230.0
+Matola Rio,Costa do Sol,12:00,0.0,0.0,13:53,113,65,3,Chapa C8 Matola Rio-Liberdade > Chapa C7 Matola Gare-Liberdade > Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,113.0
+Matola Rio,Costa do Sol,12:00,0.5,0.0,13:53,113,35,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,130.5
+Matola Rio,Costa do Sol,12:00,2.0,0.0,13:53,113,35,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,183.0
+Matola Rio,Costa do Sol,12:00,0.0,5.0,13:53,113,35,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,118.0
+Matola Rio,Costa do Sol,12:00,0.5,5.0,13:53,113,35,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,135.5
+Matola Rio,Costa do Sol,12:00,2.0,5.0,13:53,113,35,1,Comboio T1 CFM-Matola Rio (volta) > a pé > Chapa C2 Baixa-Costa do Sol,188.0
+Katembe (Terminal),FENG-UEM,09:00,0.0,0.0,09:57,57,70,3,Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > Chapa C5 Zimpeto-Baixa (volta) > Chapa C1 Baixa-FENG,57.0
+Katembe (Terminal),FENG-UEM,09:00,0.5,0.0,09:59,59,35,1,Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > a pé,76.5
+Katembe (Terminal),FENG-UEM,09:00,2.0,0.0,09:59,59,35,1,Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > a pé,129.0
+Katembe (Terminal),FENG-UEM,09:00,0.0,5.0,09:59,59,35,1,Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > a pé,64.0
+Katembe (Terminal),FENG-UEM,09:00,0.5,5.0,09:59,59,35,1,Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > a pé,81.5
+Katembe (Terminal),FENG-UEM,09:00,2.0,5.0,09:59,59,35,1,Ferry F1 Maputo-Katembe (volta) > Autocarro B4 Baixa-Polana > a pé,134.0

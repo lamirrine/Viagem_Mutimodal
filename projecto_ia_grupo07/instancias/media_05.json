@@ -1,0 +1,32 @@
+{
+ "nome": "media_05",
+ "nivel": "media",
+ "paragens": [
+  1,
+  3,
+  5,
+  7,
+  11,
+  12,
+  14,
+  15,
+  16,
+  17,
+  18,
+  22,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "origem": 5,
+ "destino": 11,
+ "t0": 365,
+ "limite": 454,
+ "orcamento": 38,
+ "alfa": 2.0,
+ "beta": 5.0,
+ "chegada_mais_cedo": 407,
+ "semente": 202607
+}

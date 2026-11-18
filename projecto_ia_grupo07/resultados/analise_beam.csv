@@ -1,0 +1,151 @@
+origem,destino,t0,alfa,beta,custo_optimo,comprimento_optimo,max_espera_optimo,usa_horario_fixo,beam10_estado,beam10_custo,beam10_razao,beam100_estado,beam100_custo,beam100_razao
+Maxaquene,Katembe Centro,16:25,0.0,5.0,129.0,10,25,True,falhou,,,falhou,,
+Estacao CFM,FENG-UEM,13:45,2.0,5.0,58.0,4,3,False,ok,58.0,1.0,ok,58.0,1.0
+Machava,Hulene,10:10,2.0,5.0,90.0,4,13,False,ok,90.0,1.0,ok,90.0,1.0
+Alto Mae,Zimpeto,13:40,0.5,5.0,69.0,7,5,True,ok,69.0,1.0,ok,69.0,1.0
+Laulane,Alto Mae,13:55,2.0,5.0,73.0,3,10,True,ok,73.0,1.0,ok,73.0,1.0
+Liberdade,Terminal do Ferry (Maputo),06:45,2.0,5.0,143.0,7,22,True,ok,143.0,1.0,ok,143.0,1.0
+Maxaquene,Mercado Central,14:20,2.0,0.0,63.0,5,7,True,ok,63.0,1.0,ok,63.0,1.0
+Mavalane,Alto Mae,15:30,0.0,5.0,40.0,6,0,False,ok,40.0,1.0,ok,40.0,1.0
+Liberdade,Mavalane,15:10,0.0,5.0,73.0,8,4,False,ok,73.0,1.0,ok,73.0,1.0
+Hulene,Matola Gare,15:00,2.0,0.0,142.0,7,11,False,ok,142.0,1.0,ok,142.0,1.0
+FENG-UEM,Mavalane,16:35,0.5,5.0,85.0,8,19,True,ok,85.0,1.0,ok,85.0,1.0
+Praca dos Combatentes,Mavalane,16:25,2.0,5.0,123.0,6,7,False,ok,123.0,1.0,ok,123.0,1.0
+Junta,Matola Rio,08:05,0.0,0.0,106.0,9,7,True,falhou,,,falhou,,
+Hulene,Matola Rio,11:35,0.0,5.0,88.0,9,9,False,ok,103.0,1.1704545454545454,ok,88.0,1.0
+Mercado Central,Mavalane,08:55,2.0,0.0,67.0,5,17,True,ok,67.0,1.0,ok,67.0,1.0
+Mercado Central,Benfica,13:55,2.0,5.0,73.0,3,10,True,ok,73.0,1.0,ok,73.0,1.0
+Alto Mae,Hulene,15:05,0.5,0.0,41.5,6,2,True,ok,41.5,1.0,ok,41.5,1.0
+Laulane,Katembe Centro,15:25,0.5,0.0,146.5,6,13,True,falhou,,,falhou,,
+Terminal do Ferry (Maputo),Liberdade,09:35,0.0,0.0,102.0,5,40,True,falhou,,,ok,103.0,1.0098039215686274
+Liberdade,Alto Mae,09:10,0.5,5.0,77.5,5,2,True,ok,77.5,1.0,ok,77.5,1.0
+Matola Rio,Maxaquene,16:50,0.5,0.0,125.0,10,14,True,ok,125.0,1.0,ok,125.0,1.0
+Praca dos Combatentes,Fomento,13:50,0.5,5.0,134.5,12,3,False,ok,134.5,1.0,ok,134.5,1.0
+Katembe (Terminal),Matola Jardim,06:45,0.5,0.0,144.0,7,21,True,ok,144.0,1.0,ok,144.0,1.0
+Matola Jardim,Mavalane,08:45,2.0,5.0,184.0,8,12,True,ok,184.0,1.0,ok,184.0,1.0
+Xipamanine,Terminal do Ferry (Maputo),10:10,0.0,5.0,34.0,5,1,False,ok,47.0,1.3823529411764706,ok,34.0,1.0
+Estacao CFM,Maxaquene,08:25,2.0,5.0,62.0,6,2,True,ok,62.0,1.0,ok,62.0,1.0
+Katembe Centro,FENG-UEM,16:25,0.0,0.0,96.0,9,11,True,ok,96.0,1.0,ok,96.0,1.0
+Sommerschield,Mahotas,09:15,0.0,0.0,39.0,6,6,True,ok,39.0,1.0,ok,39.0,1.0
+Polana,Matola Jardim,12:05,0.0,0.0,85.0,10,9,False,falhou,,,falhou,,
+Mercado Central,Costa do Sol,07:05,2.0,0.0,88.0,5,2,False,ok,88.0,1.0,ok,88.0,1.0
+Matola Jardim,Mahotas,06:35,0.0,0.0,134.0,11,22,True,falhou,,,ok,134.0,1.0
+Costa do Sol,Baixa,09:30,0.5,5.0,41.5,5,5,False,ok,41.5,1.0,ok,41.5,1.0
+Matola Rio,Polana,17:05,0.5,5.0,123.0,8,41,True,ok,123.0,1.0,ok,123.0,1.0
+Maxaquene,Terminal do Ferry (Maputo),14:50,0.5,5.0,44.0,6,2,True,ok,44.0,1.0,ok,44.0,1.0
+Xipamanine,Zimpeto,10:15,0.0,0.0,36.0,6,4,False,ok,36.0,1.0,ok,36.0,1.0
+Zimpeto,Costa do Sol,08:10,2.0,0.0,155.0,11,28,True,ok,155.0,1.0,ok,155.0,1.0
+Junta,Machava,11:20,0.0,0.0,54.0,7,5,True,ok,54.0,1.0,ok,54.0,1.0
+Mercado Central,Magoanine,09:15,2.0,5.0,88.0,6,24,True,ok,88.0,1.0,ok,88.0,1.0
+Baixa,Liberdade,08:25,0.0,5.0,78.0,5,8,True,ok,92.0,1.1794871794871795,ok,97.0,1.2435897435897436
+Liberdade,Magoanine,12:40,2.0,0.0,183.0,9,23,True,ok,183.0,1.0,ok,183.0,1.0
+Magoanine,Maxaquene,15:15,0.5,5.0,80.5,8,2,False,ok,80.5,1.0,ok,80.5,1.0
+Fomento,Estacao CFM,09:25,2.0,5.0,139.0,5,10,True,ok,139.0,1.0,ok,139.0,1.0
+Katembe Centro,Terminal do Ferry (Maputo),17:20,2.0,0.0,173.0,4,12,True,ok,173.0,1.0,ok,173.0,1.0
+Laulane,Alto Mae,08:35,0.5,0.0,49.5,3,9,True,ok,49.5,1.0,ok,49.5,1.0
+Alto Mae,Magoanine,16:05,0.0,0.0,64.0,9,2,True,ok,77.0,1.203125,ok,64.0,1.0
+Terminal do Ferry (Maputo),Polana,13:25,0.5,0.0,27.0,4,6,True,ok,27.0,1.0,ok,27.0,1.0
+Malhangalene,Machava,07:15,2.0,5.0,134.0,6,10,True,ok,134.0,1.0,ok,134.0,1.0
+Mavalane,Katembe (Terminal),12:30,0.5,5.0,89.0,7,2,False,ok,89.0,1.0,ok,89.0,1.0
+Hulene,Matola Gare,07:50,0.0,0.0,101.0,8,17,True,falhou,,,ok,101.0,1.0
+Mavalane,Estacao CFM,10:55,0.0,5.0,36.0,6,5,False,ok,36.0,1.0,ok,36.0,1.0
+Sommerschield,Katembe (Terminal),06:10,2.0,5.0,135.0,7,14,True,ok,135.0,1.0,ok,135.0,1.0
+Magoanine,Costa do Sol,06:25,0.5,0.0,125.5,10,17,True,ok,125.5,1.0,ok,125.5,1.0
+Xipamanine,FENG-UEM,08:15,2.0,5.0,104.0,6,5,False,ok,104.0,1.0,ok,104.0,1.0
+Machava,Maxaquene,11:30,0.5,5.0,74.0,5,4,True,ok,74.0,1.0,ok,74.0,1.0
+Katembe (Terminal),Polana,14:55,0.5,0.0,70.5,6,11,True,ok,70.5,1.0,ok,70.5,1.0
+Katembe (Terminal),Polana,10:55,0.5,0.0,71.5,6,11,True,ok,71.5,1.0,ok,71.5,1.0
+Alto Mae,Zimpeto,09:20,0.0,5.0,57.0,9,2,False,ok,57.0,1.0,ok,57.0,1.0
+Magoanine,Malhangalene,12:15,0.0,0.0,31.0,5,2,False,ok,31.0,1.0,ok,31.0,1.0
+Matola Rio,Estacao CFM,12:55,0.0,5.0,54.0,4,11,True,ok,54.0,1.0,ok,54.0,1.0
+Costa do Sol,Alto Mae,16:05,0.0,0.0,43.0,4,0,False,ok,43.0,1.0,ok,43.0,1.0
+Alto Mae,Mavalane,15:40,0.5,0.0,53.0,5,12,True,ok,58.5,1.1037735849056605,ok,53.0,1.0
+Mahotas,Machava,14:45,0.0,0.0,93.0,10,9,True,falhou,,,ok,93.0,1.0
+Liberdade,Junta,17:50,2.0,0.0,163.0,7,20,True,ok,163.0,1.0,ok,163.0,1.0
+Polana,Hulene,12:50,2.0,5.0,90.0,6,4,True,ok,90.0,1.0,ok,90.0,1.0
+Hulene,Polana,14:30,0.0,5.0,38.0,9,0,False,ok,38.0,1.0,ok,38.0,1.0
+Benfica,Liberdade,06:15,0.0,5.0,56.0,4,5,True,ok,61.0,1.0892857142857142,ok,56.0,1.0
+Hulene,Baixa,15:40,2.0,0.0,41.0,3,4,True,ok,41.0,1.0,ok,41.0,1.0
+Matola Gare,Katembe (Terminal),14:55,0.5,5.0,122.5,6,15,True,ok,136.0,1.110204081632653,ok,122.5,1.0
+Sommerschield,Mavalane,09:20,2.0,5.0,115.0,7,7,False,ok,119.0,1.0347826086956522,ok,115.0,1.0
+Costa do Sol,Hulene,08:10,0.0,5.0,84.0,9,5,False,ok,87.0,1.0357142857142858,ok,84.0,1.0
+Magoanine,Matola Gare,08:00,0.5,5.0,125.0,9,14,True,ok,125.0,1.0,ok,125.0,1.0
+Costa do Sol,FENG-UEM,15:35,0.0,0.0,18.0,2,0,False,ok,18.0,1.0,ok,18.0,1.0
+Terminal do Ferry (Maputo),Mavalane,07:45,0.0,5.0,44.0,6,0,True,ok,44.0,1.0,ok,44.0,1.0
+Xipamanine,Matola Gare,09:10,0.5,0.0,88.0,6,14,True,ok,88.0,1.0,ok,88.0,1.0
+Machava,Maxaquene,09:30,0.0,5.0,59.0,5,8,False,ok,59.0,1.0,ok,59.0,1.0
+Praca dos Combatentes,Laulane,15:25,0.0,0.0,47.0,8,7,False,ok,49.0,1.0425531914893618,ok,47.0,1.0
+Maxaquene,Katembe (Terminal),17:05,2.0,5.0,160.0,8,21,True,ok,160.0,1.0,ok,160.0,1.0
+Alto Mae,Matola Jardim,14:05,2.0,0.0,135.0,5,12,True,ok,135.0,1.0,ok,135.0,1.0
+FENG-UEM,Matola Gare,16:55,0.5,5.0,117.0,8,16,True,ok,119.5,1.0213675213675213,ok,117.0,1.0
+Junta,Laulane,16:20,2.0,0.0,72.0,4,2,False,ok,72.0,1.0,ok,72.0,1.0
+Benfica,Zimpeto,08:40,0.5,5.0,78.5,6,15,True,ok,78.5,1.0,ok,78.5,1.0
+Magoanine,Costa do Sol,12:30,0.5,5.0,93.5,11,4,False,ok,93.5,1.0,ok,93.5,1.0
+FENG-UEM,Matola Rio,15:30,0.5,5.0,126.0,9,23,True,ok,128.5,1.0198412698412698,ok,128.5,1.0198412698412698
+Machava,Polana,15:25,0.5,5.0,103.5,6,8,True,ok,103.5,1.0,ok,103.5,1.0
+Alto Mae,Laulane,09:55,0.5,0.0,47.5,3,7,True,ok,47.5,1.0,ok,47.5,1.0
+Katembe Centro,Mavalane,15:05,2.0,5.0,168.0,7,9,True,ok,168.0,1.0,ok,168.0,1.0
+Katembe Centro,Laulane,15:10,0.0,5.0,106.0,9,3,True,ok,120.0,1.1320754716981132,ok,106.0,1.0
+Katembe Centro,FENG-UEM,15:45,0.0,0.0,100.0,7,2,False,ok,100.0,1.0,ok,100.0,1.0
+Malhangalene,Katembe Centro,11:25,0.0,5.0,74.0,6,10,False,falhou,,,ok,84.0,1.135135135135135
+Matola Rio,Museu,09:40,0.0,0.0,72.0,11,4,True,ok,72.0,1.0,ok,72.0,1.0
+Mahotas,Polana,13:05,0.0,5.0,38.0,4,1,False,ok,38.0,1.0,ok,38.0,1.0
+Terminal do Ferry (Maputo),Junta,06:10,0.5,0.0,55.5,5,2,False,ok,55.5,1.0,ok,55.5,1.0
+Polana,Costa do Sol,12:10,2.0,5.0,49.0,3,0,False,ok,49.0,1.0,ok,49.0,1.0
+Estacao CFM,Sommerschield,15:50,0.0,0.0,37.0,6,5,True,ok,37.0,1.0,ok,37.0,1.0
+Zimpeto,FENG-UEM,06:05,0.5,0.0,116.5,10,4,False,ok,116.5,1.0,ok,116.5,1.0
+Katembe (Terminal),Liberdade,13:45,2.0,0.0,207.0,7,7,True,ok,230.0,1.1111111111111112,ok,207.0,1.0
+Machava,Xipamanine,10:35,0.0,0.0,45.0,5,3,False,ok,45.0,1.0,ok,45.0,1.0
+Estacao CFM,Sommerschield,08:25,2.0,0.0,47.0,5,2,True,ok,47.0,1.0,ok,47.0,1.0
+Machava,Estacao CFM,12:45,0.5,0.0,74.0,2,38,True,ok,74.0,1.0,ok,74.0,1.0
+Matola Jardim,Xipamanine,11:15,0.0,5.0,70.0,7,12,False,ok,70.0,1.0,ok,70.0,1.0
+Liberdade,FENG-UEM,08:20,2.0,0.0,149.0,8,3,True,ok,149.0,1.0,ok,149.0,1.0
+Sommerschield,Liberdade,07:40,2.0,5.0,159.0,7,2,True,ok,178.0,1.119496855345912,ok,159.0,1.0
+Katembe Centro,Costa do Sol,13:35,2.0,0.0,180.0,8,10,False,ok,180.0,1.0,ok,180.0,1.0
+Katembe Centro,Terminal do Ferry (Maputo),16:55,2.0,5.0,173.0,4,6,True,ok,173.0,1.0,ok,173.0,1.0
+Matola Rio,Maxaquene,13:10,0.0,5.0,89.0,10,3,False,ok,89.0,1.0,ok,89.0,1.0
+Praca dos Combatentes,Magoanine,06:40,0.5,5.0,89.5,7,2,False,ok,89.5,1.0,ok,89.5,1.0
+Costa do Sol,Zimpeto,15:45,2.0,5.0,148.0,11,5,True,ok,148.0,1.0,ok,148.0,1.0
+Polana,Matola Rio,12:10,0.5,5.0,125.0,8,35,True,ok,127.5,1.02,ok,125.0,1.0
+Mahotas,Katembe Centro,17:25,0.0,5.0,154.0,11,23,True,falhou,,,falhou,,
+Mahotas,Mercado Central,17:30,0.0,5.0,60.0,6,8,True,ok,67.0,1.1166666666666667,ok,60.0,1.0
+Laulane,FENG-UEM,07:05,2.0,0.0,100.0,7,1,False,ok,100.0,1.0,ok,100.0,1.0
+Costa do Sol,Matola Rio,15:20,0.5,5.0,138.5,10,27,True,ok,138.5,1.0,ok,146.0,1.0541516245487366
+Matola Rio,Machava,17:35,0.0,5.0,28.0,3,11,True,ok,28.0,1.0,ok,28.0,1.0
+Magoanine,Laulane,06:45,0.0,5.0,68.0,6,4,False,ok,68.0,1.0,ok,68.0,1.0
+Junta,Mavalane,08:20,0.5,0.0,54.0,7,2,True,ok,54.0,1.0,ok,54.0,1.0
+Polana,Matola Jardim,13:50,0.5,5.0,112.5,8,16,True,ok,112.5,1.0,ok,112.5,1.0
+Liberdade,Mercado Central,07:05,2.0,0.0,100.0,4,2,True,ok,100.0,1.0,ok,100.0,1.0
+Katembe Centro,Zimpeto,06:40,0.5,0.0,177.0,9,17,True,ok,177.0,1.0,ok,177.0,1.0
+Xipamanine,Terminal do Ferry (Maputo),11:00,2.0,5.0,69.0,6,5,False,ok,69.0,1.0,ok,69.0,1.0
+Magoanine,Maxaquene,07:45,0.5,0.0,103.5,8,4,False,ok,103.5,1.0,ok,103.5,1.0
+Matola Rio,Fomento,17:45,0.5,5.0,49.5,3,10,False,ok,49.5,1.0,ok,49.5,1.0
+Baixa,Katembe (Terminal),16:00,0.5,5.0,73.0,2,7,False,ok,73.0,1.0,ok,73.0,1.0
+Junta,Matola Rio,07:00,2.0,5.0,156.0,10,11,True,ok,156.0,1.0,ok,156.0,1.0
+Xipamanine,Matola Rio,09:50,0.0,0.0,81.0,10,9,True,ok,83.0,1.0246913580246915,ok,81.0,1.0
+Museu,Magoanine,09:20,0.5,5.0,75.5,8,3,False,ok,75.5,1.0,ok,75.5,1.0
+Baixa,FENG-UEM,06:40,0.5,0.0,40.5,4,8,False,ok,40.5,1.0,ok,40.5,1.0
+Malhangalene,Liberdade,14:25,0.0,5.0,77.0,9,6,False,falhou,,,ok,77.0,1.0
+Liberdade,Laulane,15:30,2.0,5.0,88.0,3,15,True,ok,88.0,1.0,ok,88.0,1.0
+Junta,Magoanine,16:50,0.5,5.0,86.5,9,6,True,ok,86.5,1.0,ok,86.5,1.0
+Fomento,Xipamanine,17:30,0.5,0.0,142.5,9,10,True,ok,142.5,1.0,ok,142.5,1.0
+Mavalane,Terminal do Ferry (Maputo),07:35,0.5,0.0,72.0,6,23,True,ok,90.0,1.25,ok,72.0,1.0
+Matola Gare,Hulene,15:30,0.5,0.0,110.0,8,6,True,ok,110.0,1.0,ok,110.0,1.0
+Magoanine,Matola Gare,13:35,2.0,5.0,179.0,10,12,True,ok,179.0,1.0,ok,179.0,1.0
+Mercado Central,Hulene,13:15,0.5,0.0,36.0,5,5,False,ok,36.0,1.0,ok,36.0,1.0
+Costa do Sol,Junta,09:20,0.0,0.0,32.0,5,4,False,ok,32.0,1.0,ok,32.0,1.0
+Mahotas,Katembe (Terminal),08:55,2.0,0.0,185.0,9,19,True,ok,195.0,1.054054054054054,ok,185.0,1.0
+Mavalane,Praca dos Combatentes,12:10,0.5,5.0,60.5,6,11,False,ok,60.5,1.0,ok,60.5,1.0
+Matola Rio,Alto Mae,08:50,0.0,0.0,73.0,8,6,True,ok,73.0,1.0,ok,73.0,1.0
+Mahotas,Praca dos Combatentes,07:10,0.0,5.0,87.0,9,27,True,ok,87.0,1.0,ok,87.0,1.0
+Matola Gare,Sommerschield,11:10,0.5,0.0,90.0,7,10,True,ok,90.0,1.0,ok,90.0,1.0
+Fomento,Hulene,16:45,2.0,0.0,190.0,7,10,False,ok,190.0,1.0,ok,190.0,1.0
+Matola Jardim,Katembe Centro,10:25,0.5,5.0,147.5,8,5,True,ok,147.5,1.0,ok,147.5,1.0
+Machava,Sommerschield,12:15,2.0,0.0,131.0,7,4,True,ok,131.0,1.0,ok,131.0,1.0
+Junta,Machava,11:25,2.0,5.0,137.0,6,12,True,ok,137.0,1.0,ok,137.0,1.0
+Terminal do Ferry (Maputo),Benfica,10:45,0.0,5.0,56.0,8,2,False,ok,56.0,1.0,ok,56.0,1.0
+FENG-UEM,Mahotas,13:20,2.0,0.0,37.0,2,2,True,ok,37.0,1.0,ok,37.0,1.0
+Mavalane,Costa do Sol,10:30,2.0,5.0,114.0,9,5,True,ok,114.0,1.0,ok,114.0,1.0
+Alto Mae,Magoanine,15:10,0.5,5.0,61.5,7,3,True,ok,61.5,1.0,ok,61.5,1.0
+Malhangalene,Matola Rio,14:55,0.0,5.0,65.0,8,1,True,ok,65.0,1.0,ok,65.0,1.0
+Mahotas,Hulene,14:00,2.0,5.0,140.0,9,18,True,ok,140.0,1.0,ok,140.0,1.0

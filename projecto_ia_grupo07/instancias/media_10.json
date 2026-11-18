@@ -1,0 +1,31 @@
+{
+ "nome": "media_10",
+ "nivel": "media",
+ "paragens": [
+  3,
+  5,
+  7,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  19,
+  25,
+  28,
+  29
+ ],
+ "origem": 25,
+ "destino": 13,
+ "t0": 660,
+ "limite": 813,
+ "orcamento": 69,
+ "alfa": 2.0,
+ "beta": 5.0,
+ "chegada_mais_cedo": 756,
+ "semente": 202607
+}

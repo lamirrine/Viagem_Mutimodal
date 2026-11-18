@@ -13,8 +13,8 @@ class Problema(ABC):
 
     @abstractmethod
     def accoes(self, s: Hashable) -> Iterable[Any]:
-        """Acções aplicáveis em s"""
-
+        """Devolve as acções possíveis no estado ``s``."""
+        
     @abstractmethod
     def resultado(self, s: Hashable, a: Any) -> Hashable:
         """Modelo de transição: estado que resulta de aplicar ``a`` em ``s``."""
@@ -44,12 +44,15 @@ class No:
         self.g = g
         self.profundidade = profundidade
 
-    def __repr__(self) -> str: 
+    def __repr__(self) -> str:  # pragma: no cover - ajuda de depuração
         return f"No({self.estado}, g={self.g:.2f}, prof={self.profundidade})"
 
 
 def caminho(no: No) -> List[Tuple[Any, Hashable]]:
-    """Reconstrói a solução: lista de pares (acção, estado) da raiz até ``no``."""
+    """Reconstrói a solução: lista de pares (acção, estado) da raiz até ``no``.
+
+    O primeiro par é (None, estado_inicial).
+    """
     passos: List[Tuple[Any, Hashable]] = []
     n: Optional[No] = no
     while n is not None:
