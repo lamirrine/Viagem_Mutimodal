@@ -46,7 +46,3 @@ python experiencias.py --so-graficos   # refaz tabelas e gráficos a partir do C
 ## Reprodutibilidade
 Todos os resultados saem de `python gerador.py` + `python experiencias.py` com a semente 202607.
 `resultados/ambiente.txt` regista a máquina. Tempos dependem da máquina; contagens de nós não.
-
-## Git
-Fazer commits regulares; todos os membros devem aparecer no histórico (podem editar ficheiros
-no GitHub). A pasta `.git` entra no ZIP final `IA_PROJECTO_GRUPO_07_LAB.zip`.
